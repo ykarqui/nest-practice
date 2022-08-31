@@ -13,7 +13,6 @@ Takes advantage of latest JavaScript features, bringing design patterns and matu
 ## INSTALATION
 ```javascript
 $ npm i -g @nestjs/cli
-$ nest new project-name
 # create project 
 $ nest new project-name
 # run project
