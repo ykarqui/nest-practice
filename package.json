@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/ykarqui/nest-practice#readme",
   "dependencies": {
-    "@nestjs/cli": "^9.1.1"
+    "@nestjs/cli": "^9.1.1",
+    "@nestjs/common": "^9.0.11",
+    "@nestjs/core": "^9.0.11",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^7.5.6"
   }
 }
