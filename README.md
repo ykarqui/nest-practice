@@ -8,3 +8,10 @@ An adaptable ecosystem that is a fully-fledged backbone for all kinds of server-
 
 ## PROGRESSIVE
 Takes advantage of latest JavaScript features, bringing design patterns and mature solutions to Node.js world.
+
+
+## INSTALATION
+```javascript
+$ npm i -g @nestjs/cli
+$ nest new project-name
+```
