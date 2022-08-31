@@ -1,0 +1,22 @@
+{
+  "name": "nest-practice",
+  "version": "1.0.0",
+  "description": "nest-work-around",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ykarqui/nest-practice.git"
+  },
+  "author": "yamil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ykarqui/nest-practice/issues"
+  },
+  "homepage": "https://github.com/ykarqui/nest-practice#readme",
+  "dependencies": {
+    "@nestjs/cli": "^9.1.1"
+  }
+}
